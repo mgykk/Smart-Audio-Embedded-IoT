@@ -1,1 +1,0 @@
-# Smart-Audio-Embedded-IoT
